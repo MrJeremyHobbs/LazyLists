@@ -5,3 +5,6 @@ LazyLists allows a user to scan the barcode of an item in hand and add that item
 Simply scan a barcode (or type with the keyboard if the label is too worn for scanning). LazyLists will indicate if the process was successful or if there were any problems.
 
 You can download the latest release of LazyLists by clicking the releases tab above or by clicking [here](https://github.com/MrJeremyHobbs/LazyLists/releases).
+
+# Antivirus Issues
+LazyLists isn't cerfiied by Microsoft and you may receive warnings by your local antivirus when using the compiled EXE file. You can get around this by downloading LazyLists as a Python script and running it directly through Python.
