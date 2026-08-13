@@ -6,5 +6,7 @@ Simply scan a barcode (or type with the keyboard if the label is too worn for sc
 
 You can download the latest release of LazyLists by clicking the releases tab above or by clicking [here](https://github.com/MrJeremyHobbs/LazyLists/releases).
 
-# Antivirus Issues
-LazyLists isn't cerfiied by Microsoft and you may receive warnings by your local antivirus when using the compiled EXE file. You can get around this by downloading LazyLists as a Python script and running it directly through Python.
+# Notes
+LazyLists isn't certified by Microsoft and you may receive warnings by your local antivirus when using the compiled EXE file. You can get around this by downloading LazyLists as a Python script and running it directly through Python.
+
+LazyLists is offered as-is and is not currently being maintained. But the source code is available in this repo for anyone to customize to their local needs.
